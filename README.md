@@ -22,3 +22,5 @@ The main objective of this project is
 3. Tableau
 
 ## Analysis
+
+Tableau Insights - https://public.tableau.com/app/profile/aruna.venkatachalam/viz/ElectronicsSales_17426106725720/Dashboard4?publish=yes
